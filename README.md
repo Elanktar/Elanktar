@@ -9,7 +9,7 @@ My website:
 - 🥅 2021 Goals: Become proactive and efficient in AI projects, find a PhD about AI
 - ⚡ Fun fact: I love fitness and playing guitar
 
-### Connect with me:
+### Contact me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
