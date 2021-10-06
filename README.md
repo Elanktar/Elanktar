@@ -38,6 +38,8 @@ My website:
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Elanktar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elanktar&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elanktar&theme=light&hide_langs_below=1" />
+</a>
 
 </details>
 
