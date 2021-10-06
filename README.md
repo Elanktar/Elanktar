@@ -4,16 +4,16 @@ My website:
 
 ## I'm a french student at INSA Rennes in the [E&T department][insa]!
 
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI and machine learning!
 - 🌱 I’m currently learning python, and everything I can about data science, machine learning and AI
 - 🥅 2021 Goals: Become proactive and efficient in AI projects, find a PhD about AI
 - ⚡ Fun fact: I love fitness and playing guitar
 
 ### Contact me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae2837…36f6e734076332f69636f6e732f747769747465722e737667" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b…f6e734076332f69636f6e732f6c696e6b6564696e2e737667" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4a…e734076332f69636f6e732f696e7374616772616d2e737667" />][instagram]
 
 <br />
 
