@@ -22,19 +22,6 @@ My website:
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on:
-2. ❗️ Closed issue
-3. ❌ Closed PR 
-4. 🗣 Commented on 
-5. 🎉 Merged PR 
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Elanktar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Elanktar&show_icons=true&hide_border=true" />
