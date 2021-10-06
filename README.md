@@ -1,5 +1,7 @@
 ### Hi, I'm Hugo - aka @Elanktar 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Elanktar&label=Views&color=blue&style=plastic" alt="Elanktar" /> </p>
+
 My website:
 
 ## I'm a french student at INSA Rennes in the [E&T department][insa]!
