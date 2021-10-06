@@ -1,7 +1,6 @@
 ### Hi, I'm Hugo - aka @Elanktar 👋
 
-// à faire [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)]()
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/Elanktar)
+My website:
 
 ## I'm a french student at INSA Rennes in the [E&T department][insa]!
 
