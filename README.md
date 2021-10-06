@@ -1,4 +1,4 @@
-### Hi, I'm Hugo - aka @Elanktar 👋
+### Hi, I'm Hugo - aka Elanktar 👋
 
 My website:
 
