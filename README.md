@@ -13,7 +13,7 @@ My website:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/395dda360ae2837…36f6e734076332f69636f6e732f747769747465722e737667" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/d659d2bac00c01b…f6e734076332f69636f6e732f6c696e6b6564696e2e737667" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/c80f9763ed06d4a…e734076332f69636f6e732f696e7374616772616d2e737667" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
