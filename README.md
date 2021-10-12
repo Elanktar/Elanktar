@@ -1,7 +1,5 @@
 ### Hi, I'm Hugo - aka Elanktar 👋
 
-My website: https://elanktar.github.io/
-
 ## I'm a french student at INSA Rennes in the [E&T department][insa]!
 
 - 👀 I’m interested in AI and machine learning!
