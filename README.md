@@ -1,13 +1,12 @@
-### Hi, I'm Hugo - aka Elanktar 👋
+### Hi, I'm Hugo Peuzet - aka Elanktar 👋
 
 My website: https://elanktar.github.io/
 
-## I'm a french student at INSA Rennes in the [E&T department][insa]!
+## I'm a french PhD candidate at Orange and the LS2N laboratory from Nantes University!
 
 - 👀 I’m interested in AI and machine learning!
-- 🌱 I’m currently learning python, and everything I can about data science, machine learning and AI
-- 🥅 2021 Goals: Become proactive and efficient in AI projects, find a PhD about AI
-- ⚡ Fun fact: I love fitness and playing guitar
+- 🌱 I’m currently working about continual learning!
+- 🥅 2023 Goals: learn everything I can about my PhD subject!
 
 ### Contact me:
 
@@ -28,7 +27,6 @@ My website: https://elanktar.github.io/
 
 </details>
 
-[insa]: https://www.insa-rennes.fr/electronics-telecommunications.html
 [twitter]: https://twitter.com/Elanktar
 [instagram]: https://www.instagram.com/hugopeuzet
 [linkedin]: https://www.linkedin.com/in/hugo-peuzet
