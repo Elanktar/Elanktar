@@ -1,6 +1,6 @@
 ### Hi, I'm Hugo Peuzet - aka Elanktar 👋
 
-My website: https://elanktar.github.io/
+[comment]: <> (My website: https://elanktar.github.io/)
 
 ## I'm a french PhD candidate at Orange and the LS2N laboratory from Nantes University!
 
