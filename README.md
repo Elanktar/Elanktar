@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in AI and machine learning!
 - 🌱 I’m currently working about continual learning!
-- 🥅 2023 Goals: learn everything I can about my PhD subject!
+- 🥅 2025 Goals: publishing papers, become a doctor and find a job in machine learning research!
 
 ### Contact me:
 
