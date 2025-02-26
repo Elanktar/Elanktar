@@ -1,6 +1,6 @@
 ### Hi, I'm Hugo Peuzet - aka Elanktar 👋
 
-[comment]: <> (My website: https://elanktar.github.io/)
+My website: https://elanktar.github.io/
 
 ## I'm a french PhD candidate at Orange and the LS2N laboratory from Nantes University!
 
@@ -10,9 +10,9 @@
 
 ### Contact me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[comment]: <> ([<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter])
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[comment]: <> ([<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram])
 
 <br />
 
@@ -27,6 +27,6 @@
 
 </details>
 
-[twitter]: https://twitter.com/Elanktar
-[instagram]: https://www.instagram.com/hugopeuzet
+[comment]: <> ([twitter]: https://twitter.com/Elanktar)
+[comment]: <> ([instagram]: https://www.instagram.com/hugopeuzet)
 [linkedin]: https://www.linkedin.com/in/hugo-peuzet
