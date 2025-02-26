@@ -9,10 +9,7 @@ My website: https://elanktar.github.io/
 - 🥅 2025 Goals: publishing papers, becoming a doctor and finding a job in machine learning research!
 
 ### Contact me:
-
-[comment]: <> ([<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter])
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[comment]: <> ([<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram])
 
 <br />
 
@@ -26,7 +23,4 @@ My website: https://elanktar.github.io/
 </a>
 
 </details>
-
-[comment]: <> ([twitter]: https://twitter.com/Elanktar)
-[comment]: <> ([instagram]: https://www.instagram.com/hugopeuzet)
 [linkedin]: https://www.linkedin.com/in/hugo-peuzet
