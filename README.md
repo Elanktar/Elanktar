@@ -9,6 +9,7 @@ My website: https://elanktar.github.io/
 - 🥅 2025 Goals: publishing papers, becoming a doctor and finding a job in machine learning research!
 
 ### Contact me:
+
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -23,4 +24,5 @@ My website: https://elanktar.github.io/
 </a>
 
 </details>
+
 [linkedin]: https://www.linkedin.com/in/hugo-peuzet
